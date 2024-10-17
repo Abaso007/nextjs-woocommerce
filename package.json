@@ -27,7 +27,7 @@
     "@types/react": "^18.3.11",
     "algoliasearch": "^4.24.0",
     "autoprefixer": "^10.4.20",
-    "framer-motion": "11.11.8",
+    "framer-motion": "11.11.9",
     "graphql": "^16.9.0",
     "lodash": "^4.17.21",
     "next": "^14.2.15",
@@ -40,19 +40,19 @@
     "uuid": "^10.0.0"
   },
   "devDependencies": {
-    "@playwright/test": "^1.48.0",
+    "@playwright/test": "^1.48.1",
     "@types/lodash": "^4.17.10",
-    "@types/node": "22.7.5",
+    "@types/node": "22.7.6",
     "@types/nprogress": "^0.2.3",
     "@types/react-instantsearch-dom": "^6.12.8",
     "@types/uuid": "^10.0.0",
-    "@typescript-eslint/eslint-plugin": "^8.8.1",
-    "@typescript-eslint/parser": "^8.8.1",
+    "@typescript-eslint/eslint-plugin": "^8.9.0",
+    "@typescript-eslint/parser": "^8.9.0",
     "babel-plugin-styled-components": "^2.1.4",   
     "eslint-config-next": "^14.2.15",
     "postcss-preset-env": "^10.0.7",
     "prettier": "^3.3.3",
-    "tailwindcss": "^3.4.13",
+    "tailwindcss": "^3.4.14",
     "typescript": "^5.6.3"
   }
 }
